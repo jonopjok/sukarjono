@@ -1,0 +1,6 @@
+{
+  "name": "VolleyScore - Skor Sheet Bola Voli",
+  "description": "Aplikasi digital skor sheet bola voli resmi standar PBVSI/FIVB untuk petugas meja (scorar), dilengkapi live match tracker, rotasi servis, substitusi, time out, dan cetak lembar skor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
